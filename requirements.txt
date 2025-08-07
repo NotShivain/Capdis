@@ -7,3 +7,13 @@ pandas
 matplotlib
 seaborn
 ipykernel
+matplotlib
+transformers
+opencv-python
+streamlit
+imageio
+av
+easydict
+timm
+scikit-learn
+umap

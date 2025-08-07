@@ -1,1 +1,4 @@
 # add venv/env here
+data/
+raw_data/
+data.zip
