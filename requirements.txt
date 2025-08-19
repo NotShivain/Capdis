@@ -7,7 +7,6 @@ pandas
 matplotlib
 seaborn
 ipykernel
-matplotlib
 transformers
 opencv-python
 streamlit
