@@ -1,18 +1,19 @@
-torch
---index-url https://download.pytorch.org/whl/cu121
-torchvision
-torchaudio
-numpy 
-pandas
+# pyver = 3.13.7
+torch==2.11.0.dev20251231+cu128
+--extra-index-url https://download.pytorch.org/whl/nightly/cu128
+torchaudio==2.10.0.dev20251231+cu128
+torchvision==0.25.0.dev20251231+cu128
+numpy==2.4.0
+pandas==2.3.3
 matplotlib
 seaborn
-ipykernel
-transformers
+ipykernel==7.1.0
+transformers==4.57.3
 opencv-python
 streamlit
 imageio
 av
 easydict
-timm
-scikit-learn
-umap
+
+scikit-learn==1.8.0
+huggingface-hub==0.36.0
