@@ -14,6 +14,6 @@ streamlit
 imageio
 av
 easydict
-
+SoccerNet 
 scikit-learn==1.8.0
 huggingface-hub==0.36.0

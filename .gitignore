@@ -1,2 +1,4 @@
 data/
 finetuned_model
+test_data/
+__pycache__
